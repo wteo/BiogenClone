@@ -821,10 +821,6 @@ footer {
     border-bottom-left-radius: var(--border-radius);
 }
 
-.pricing-card.special {
-    border: 2px solid #4caf50;
-}
-
 .pricing-card.sports {
     border: 2px solid #3498db;
 }
@@ -835,10 +831,6 @@ footer {
     padding: var(--spacing-md);
     text-align: center;
     border-bottom: 1px solid rgba(255,255,255,0.1);
-}
-
-.pricing-card.special .pricing-header {
-    background-color: #4caf50;
 }
 
 .pricing-card.sports .pricing-header {
@@ -909,10 +901,6 @@ footer {
     left: 0;
     color: var(--accent-color);
     font-weight: bold;
-}
-
-.pricing-card.special .feature-list li::before {
-    color: #4caf50;
 }
 
 .pricing-card.sports .feature-list li::before {
